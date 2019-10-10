@@ -29,3 +29,4 @@ A browser based on Firefox, GNU Icecat, and Librefox which is extended for usabi
     * Tree tabs
 # crystal-lion
 # crystal-lion
+# crystal-lion

@@ -27,6 +27,8 @@ A browser based on Firefox, GNU Icecat, and Librefox which is extended for usabi
     * vim-vixen shortcuts. Sensible defaults with configuration options
     * Custom startpage
     * Tree tabs
-# crystal-lion
-# crystal-lion
-# crystal-lion
+
+
+* Fingerprinting
+* Noscript
+* IP Tracking
